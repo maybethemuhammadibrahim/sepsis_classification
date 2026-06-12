@@ -1,0 +1,26 @@
+{
+  "val": {
+    "auroc": 0.5,
+    "auprc": 0.0179,
+    "f1": 0.0352,
+    "sensitivity": 1.0,
+    "specificity": 0.0,
+    "tp": 4107,
+    "tn": 0,
+    "fp": 224862,
+    "fn": 0,
+    "threshold": 1.0
+  },
+  "test": {
+    "auroc": 0.5,
+    "auprc": 0.018,
+    "f1": 0.0354,
+    "sensitivity": 1.0,
+    "specificity": 0.0,
+    "tp": 4117,
+    "tn": 0,
+    "fp": 224446,
+    "fn": 0,
+    "threshold": 1.0
+  }
+}
